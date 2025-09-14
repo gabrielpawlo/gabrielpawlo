@@ -1,8 +1,8 @@
 <h2 align="left">🕵️‍♂️About Me</h2>
 I'm a backend developer passionate about building efficient and scalable systems using C#. Currently studying Information Systems at the Federal University of Ouro Preto, I'm constantly expanding my skills in software development while exploring the fields of data and machine learning. I love turning ideas into real projects and improving my craft one step at a time.
-###
 
-<p align="left">//////////////////////////</p>
+
+<p align="left"p>
 
 ###
 
