@@ -1,4 +1,4 @@
-🕵️‍♂️<h2 align="left">About Me</h2>
+<h2 align="left">🕵️‍♂️About Me</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-💻<h2 align="left">Tech Stacks</h2>
+<h2 align="left">💻Tech Stacks</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-📊<h2 align="left">GitHub Stats</h2>
+<h2 align="left">📊GitHub Stats</h2>
 
 ###
 
